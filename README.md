@@ -19,7 +19,7 @@ Document Generator
   
 2. cd documenter
 
-3. ./generateDocument.sh <path for settings file>
+3. ./generateDocument.sh settingsFilePath
 
     Settings file will have same format as doxygen format file with INPUT field as mandatory:
 
